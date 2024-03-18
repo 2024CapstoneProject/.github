@@ -17,8 +17,7 @@
 <br>
 
 ## ⚒️ 기술 
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/> 
-<br> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Material Design3-757575?style=flat-square&logo=Material Design&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=ANDROID&logoColor=white"/> <img src="https://img.shields.io/badge/JETPACK COMPOSE-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/MATERIAL DESIGN 3-757575?style=for-the-badge&logo=Material Design&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/> <br> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
 <br>
 
@@ -30,7 +29,13 @@
 <br>
 
 ## ⚙️ 기능
-
+- **가이드 모드**
+  - 서비스 이용 방식을 익힐 수 있도록 가이드를 제공합니다.<br>
+- **연습 모드**
+    - 서비스를 이용하기 전 연습해볼 수 있도록 합니다. <br>
+- **AI 챗봇과 tts기술, 음성 인식을 활용한 도우미 기능**
+    - 챗봇에 익숙치 않은 사용자를 위해 음성인식 기능과 그에 대한 응답을 AI를 통해 tts 답변으로 실시간으로 도움을 줄 수 있도록 합니다.<br>
+- **실종 방지를 위한 위치 추적 기능**
 
 
 
