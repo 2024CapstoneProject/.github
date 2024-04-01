@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What%20is%20App%20Name&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/>
 
 ## 📁 프로젝트 소개 & 진행 기간
 
