@@ -1,20 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/>
 
+영상
+
+## 2024 캡스톤디자인 산학 경진대회 수상
+상장사진
+
 ## 📁 프로젝트 소개 & 진행 기간
 
 - **프로젝트 소개**<br>
-중장년층을 대상으로 한 키오스크 가이드 어플 프로젝트입니다.<br>
-어플을 통해 매장에서 사용되고 있는 키오스크의 조작 방식, 스마트 기기로 제공되는 서비스의 이용 방법을 배워보고 연습해볼 수 있습니다. 
+  - 중장년층을 대상으로 한 키오스크 가이드 어플<br>
+  - 어플을 통해 매장에서 사용되고 있는 키오스크의 조작 방식, 스마트 기기로 제공되는 서비스의 이용 방법을 배워보고 연습해볼 수 있습니다. 
 
 
 - **진행 기간**<br>
   2024.02~
 <br>
 
-## 💡 개발배경
-최근 키오스크와 스마트 기기를 이용한 서비스가 급증하면서, **중장년층의 디지털 소외 문제**가 심각해지고 있습니다. 경제 활동에 제약을 겪거나 불필요한 비용을 지출하는 등 여러 어려움을 겪는 상황입니다. 이러한 상황에서 중장년층을 위한 디지털 기술 안내 및 연습을 할 수 있는 어플리케이션의 필요성을 느꼈고 해당 주제에 대한 어플리케이션을 개발하기로 하였습니다. 
+## ⚙️ 주요 기능
+- **카카오 로그인**
+  - 서비스 이용 방식을 익힐 수 있도록 가이드를 제공합니다. <br><br>
+- **가이드 & 연습 기능**
+    - 키오스크나 스마트폰을 사용해야 하는 대표 서비스들에 대한 가이드라인을 제공하고 연습 환경을 제공합니다.  <br><br>
+- **AI 챗봇과 tts기술, 음성 인식을 활용한 도우미 기능**
+    - 챗봇에 익숙치 않은 사용자를 위해 음성인식 기능과 그에 대한 응답을 AI를 통해 tts 답변으로 실시간으로 도움을 줄 수 있도록 합니다.<br><br>
 
-<br>
 
 ## ⚒️ 기술 
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=ANDROID&logoColor=white"/> <img src="https://img.shields.io/badge/JETPACK COMPOSE-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/MATERIAL DESIGN 3-757575?style=for-the-badge&logo=Material Design&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/> <br> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
@@ -28,14 +37,43 @@
 |`Back-end` `Server`|`Android`|`Android`|`Android`|`Android`|`Back-end` `Server`|
 <br>
 
-## ⚙️ 기능
-- **가이드 모드**
-  - 서비스 이용 방식을 익힐 수 있도록 가이드를 제공합니다.<br>
-- **연습 모드**
-    - 서비스를 이용하기 전 연습해볼 수 있도록 합니다. <br>
-- **AI 챗봇과 tts기술, 음성 인식을 활용한 도우미 기능**
-    - 챗봇에 익숙치 않은 사용자를 위해 음성인식 기능과 그에 대한 응답을 AI를 통해 tts 답변으로 실시간으로 도움을 줄 수 있도록 합니다.<br>
-- **실종 방지를 위한 위치 추적 기능**
+## 시연
+
+### 로그인 & 메인
+|로그인|메인|
+|:--:|:--:|
+|이미지|이미지|
+<br>
+
+### 가이드
+|로그인|메인|
+|:--:|:--:|
+|이미지|이미지|
+<br>
+
+### 패스트푸드 키오스크 연습
+|패스트푸드|1|2|3|4|5|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|이미지|이미지|이미지|이미지|이미지|이미지|
+<br>
+
+### 카페 키오스크 연습
+|카페|1|2|3|4|5|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|이미지|이미지|이미지|이미지|이미지|이미지|
+<br>
+
+### 카카오톡 키오스크 연습
+|카카오톡|1|2|3|4|5|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|이미지|이미지|이미지|이미지|이미지|이미지|
+<br>
+
+### AI 도우미 서비스 
+|AI|1|2|3|4|5|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|이미지|이미지|이미지|이미지|이미지|이미지|
+<br>
 
 
 
