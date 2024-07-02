@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/></p>
+# 📱효자손 - 키오스크 가이드 및 학습 제공 모바일 앱 README
 <p align="center"><img src="https://github.com/2024CapstoneProject/.github/assets/62700196/fe9ce2f6-3ac8-4cb3-bfa1-33dbd97baddd" width="350px"/></p>
 
 
