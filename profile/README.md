@@ -1,5 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/></p>
-<p align="center"><img src="https://github.com/2024CapstoneProject/.github/assets/62700196/707d88a9-e7bc-4761-9c14-3af4b2863397"/></p>
+<p align="center"><img src="https://github.com/2024CapstoneProject/.github/assets/62700196/fe9ce2f6-3ac8-4cb3-bfa1-33dbd97baddd" width="350px"/></p>
+
 
 <br><br>
 
@@ -68,7 +69,6 @@
 |화면|1|2|3|4|5|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |카페|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/3aaf984b-6b91-4352-bc1c-60f5f0c863a1" width="370px"/>|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/8a042120-cd3e-4342-86e7-ed3e0fbf1ea4" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/1c9d76be-34ff-41b6-b080-f8e33a527bd1"  />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/e7b477f4-be66-4747-98b1-119666fc8073" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/19a70afe-b145-4bae-894f-1396622f7710" />|
-|설명|연습하기를 선택|각 항목을 읽었다면 체크하여 연습 모드가 시작될 수 있도록 합니다. |**문제 보기** 버튼을 통해 문제를 다시 확인할 수 있습니다.< 틀린 답을 선택하면 **재선택 팝업**이 뜹니다. |
 
 <br>
 
