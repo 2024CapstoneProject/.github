@@ -4,7 +4,7 @@
 
 <br><br>
 
-## 2024 캡스톤디자인 산학 경진대회 수상
+## 🏆2024 캡스톤디자인 산학 경진대회 수상
 <img src="https://github.com/2024CapstoneProject/.github/assets/62700196/b9c74d28-5c36-4b6a-9e49-89c22b8b88d4" width="30%"/>
 
 
