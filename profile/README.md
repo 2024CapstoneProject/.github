@@ -1,9 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=효자손&fontSize=70&fontColor=gradient&animation=fadeIn&fontAlignY=38&desc=나는%컴공&descSize=30&descColor=FFFFFF&descAlignY=60&descAlign=80"/></p>
+<p align="center"><img src="https://github.com/2024CapstoneProject/.github/assets/62700196/707d88a9-e7bc-4761-9c14-3af4b2863397"/></p>
 
-영상
+<br><br>
 
 ## 2024 캡스톤디자인 산학 경진대회 수상
-상장사진
+<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/b9c74d28-5c36-4b6a-9e49-89c22b8b88d4" width="30%"/>
+
 
 ## 📁 프로젝트 소개 & 진행 기간
 
@@ -20,7 +22,11 @@
 - **카카오 로그인**
   - 서비스 이용 방식을 익힐 수 있도록 가이드를 제공합니다. <br><br>
 - **가이드 & 연습 기능**
-    - 키오스크나 스마트폰을 사용해야 하는 대표 서비스들에 대한 가이드라인을 제공하고 연습 환경을 제공합니다.  <br><br>
+    - 키오스크나 스마트폰을 사용해야 하는 대표 서비스들에 대한 가이드라인을 제공하고 연습 환경을 제공합니다.  
+    - 가이드 모드의 경우 디지털 취약 계층을 위한 사진 확대 기능을 제공합니다.
+    - 연습 모드의 경우 실제 상황에 대비할 수 있도록 여러 문제를 제공합니다.
+    - 또한, 문제를 해결하는 데 있어 부담되지 않도록 다시 보기 기능, 정답 확인 기능을 제공합니다. 
+    <br><br>
 - **AI 챗봇과 tts기술, 음성 인식을 활용한 도우미 기능**
     - 챗봇에 익숙치 않은 사용자를 위해 음성인식 기능과 그에 대한 응답을 AI를 통해 tts 답변으로 실시간으로 도움을 줄 수 있도록 합니다.<br><br>
 
@@ -42,13 +48,14 @@
 ### 로그인 & 메인
 |로그인|메인|
 |:--:|:--:|
-|이미지|이미지|
+|<img src="" width="250px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/506f062a-d13f-4147-b04c-b432309e3f2e" width="250px" />|
 <br>
 
+
 ### 가이드
-|로그인|메인|
-|:--:|:--:|
-|이미지|이미지|
+|가이드드|
+|:--:|
+|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/ec3c438e-f1ce-4127-9e44-39be20bce6f0" width="250px" />|
 <br>
 
 ### 패스트푸드 키오스크 연습
@@ -60,8 +67,13 @@
 ### 카페 키오스크 연습
 |화면|1|2|3|4|5|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|카페|이미지|이미지|이미지|이미지|이미지|
+|카페|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/3aaf984b-6b91-4352-bc1c-60f5f0c863a1" width="370px"/>|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/8a042120-cd3e-4342-86e7-ed3e0fbf1ea4" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/1c9d76be-34ff-41b6-b080-f8e33a527bd1"  />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/e7b477f4-be66-4747-98b1-119666fc8073" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/19a70afe-b145-4bae-894f-1396622f7710" />|
+|설명|연습하기를 선택|각 항목을 읽었다면 체크하여 연습 모드가 시작될 수 있도록 합니다. |**문제 보기** 버튼을 통해 문제를 다시 확인할 수 있습니다.< 틀린 답을 선택하면 **재선택 팝업**이 뜹니다. |
+
 <br>
+
+
+
 
 ### 카카오톡 키오스크 연습
 |화면|1|2|3|4|5|
@@ -70,12 +82,10 @@
 <br>
 
 ### AI 도우미 서비스 
-|화면|1|2|3|4|5|
-|:--:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-|AI|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/35050e8d-7c3e-4af4-b862-d7a41a52101d" width="100%"> |<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/c37cb8f2-5b92-4aeb-9771-782a4f6706de" width="100%">|이미지|이미지|이미지|
+|화면|1|3|4|5|
+|:--:|:--:|:--:|:--:|:--:|
+|AI|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/c1225555-e228-428e-9525-51a7ec3e7ca3" width="250px"/>|이미지|이미지|이미지|
 <br>
-
-
 
 <!--
 
