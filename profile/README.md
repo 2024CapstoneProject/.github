@@ -41,50 +41,47 @@
 |<img src="https://avatars.githubusercontent.com/u/102720771?v=4" width="120px">|<img src="https://avatars.githubusercontent.com/u/102029361?v=4" width="120px">|<img src="https://avatars.githubusercontent.com/u/104565869?v=4" width="120px">|<img src="https://avatars.githubusercontent.com/u/113523593?v=4" width="120px">|<img src="https://avatars.githubusercontent.com/u/109717175?v=4" width="120px">|<img src="https://avatars.githubusercontent.com/u/62700196?v=4" width="120px">|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |[**이영학**](https://github.com/younghak9905)|[**이소윤**](https://github.com/dlthdbs03)|[**정진서**](https://github.com/giikbukjin)|[**정인우**](https://github.com/yeonmorae)|[**조혜은**](https://github.com/hyeeuncho)|[**김희연**](https://github.com/Happy-Lotus)|
-|`Back-end` `Server`|`Android`|`Android`|`Android`|`Android`|`Back-end` `Server`|
+|`Back-end` `Server`|`Android`|`Android`|`Android`|`Android`|`Android` `AI`|
 <br>
 
 ## 시연
 
-### 로그인 & 메인
-|로그인|메인|
-|:--:|:--:|
-|<img src="" width="250px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/506f062a-d13f-4147-b04c-b432309e3f2e" width="250px" />|
+### 메인 & 모드 선택 & 연습모드 문제 확인 화면
+|메인|모드 선택|연습모드 문제 확인 화면|
+|:--:|:--:|:--:|
+|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/506f062a-d13f-4147-b04c-b432309e3f2e" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/3aaf984b-6b91-4352-bc1c-60f5f0c863a1" width="200px"/>|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/8a042120-cd3e-4342-86e7-ed3e0fbf1ea4" width="200px"/>|
 <br>
 
 
 ### 가이드
-|가이드드|
+|가이드|
 |:--:|
-|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/ec3c438e-f1ce-4127-9e44-39be20bce6f0" width="250px" />|
+|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/ec3c438e-f1ce-4127-9e44-39be20bce6f0" width="200px" />|
 <br>
 
 ### 패스트푸드 키오스크 연습
-|화면|1|2|3|4|5|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|패스트푸드|이미지|이미지|이미지|이미지|이미지|
+|화면|1|2|3|4|
+|:--:|:--:|:--:|:--:|:--:|
+|패스트푸드|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/cdd1be66-ba02-40d5-8f86-bd2f3118075a" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/ebe4dedd-87bc-481a-ae42-1bb10accc298" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/8181e763-a995-41f7-b87c-64d3b8f7cbac" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/d0a2a250-a83e-4838-9307-4b611c3f0215" />|
 <br>
 
 ### 카페 키오스크 연습
-|화면|1|2|3|4|5|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|카페|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/3aaf984b-6b91-4352-bc1c-60f5f0c863a1" width="370px"/>|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/8a042120-cd3e-4342-86e7-ed3e0fbf1ea4" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/1c9d76be-34ff-41b6-b080-f8e33a527bd1"  />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/e7b477f4-be66-4747-98b1-119666fc8073" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/19a70afe-b145-4bae-894f-1396622f7710" />|
+|화면|1|2|3|
+|:--:|:--:|:--:|:--:|
+|카페|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/1c9d76be-34ff-41b6-b080-f8e33a527bd1" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/e7b477f4-be66-4747-98b1-119666fc8073" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/19a70afe-b145-4bae-894f-1396622f7710" width="200px" />|
 
 <br>
 
-
-
-
-### 카카오톡 키오스크 연습
+### 카카오톡 연습
 |화면|1|2|3|4|5|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|카카오톡|이미지|이미지|이미지|이미지|이미지|
+|카카오톡|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/1685d858-1090-420f-ae61-67bc7ba4b68d" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/ee595aa6-41f3-41dd-a936-386b41124bb8" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/21afce8a-687a-442a-a362-92580f893d28" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/1eba401b-638a-4f7c-bd0f-9f4da4f0a520" width="200px" />|<img src="https://github.com/2024CapstoneProject/.github/assets/62700196/2132d405-19dc-4b04-9002-e6f89a57b8f6" width="200px" />|
 <br>
 
 ### AI 도우미 서비스 
-|화면|1|3|4|5|
-|:--:|:--:|:--:|:--:|:--:|
-|AI|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/c1225555-e228-428e-9525-51a7ec3e7ca3" width="250px"/>|이미지|이미지|이미지|
+|화면|1|2|
+|:--:|:--:|:--:|
+|AI|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/c1225555-e228-428e-9525-51a7ec3e7ca3" width="250px"/>|<img src = "https://github.com/2024CapstoneProject/.github/assets/62700196/01cf358e-0ea6-4625-98cd-5aa3711f455d" width="250px"/>|
 <br>
 
 <!--
